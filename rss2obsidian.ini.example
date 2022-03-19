@@ -1,0 +1,4 @@
+[DEFAULT]
+rss_list = rssList.txt
+output_file = [path to your vault/rss.md]
+number_of_posts = 5
